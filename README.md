@@ -27,6 +27,3 @@ The processor is organized into distinct sub-systems, each implemented as a modu
 * **RTL Coding**: Developed using synthesizable Verilog HDL, adhering to logic design principles for SoC integration.
 * **Functional Simulation**: All instructions were verified for logical correctness using testbench-driven simulation environments.
 * **Waveform Analysis**: Validated signal propagation and critical path timing through Vivado, ensuring the design meets functional requirements before physical synthesis.
-
----
-[cite_start]*This project aligns with the core responsibilities of a Hardware Engineer in SoC/IP development, including research, logic design, and RTL verification[cite: 1, 2, 4].*
